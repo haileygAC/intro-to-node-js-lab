@@ -41,6 +41,8 @@ Similarly, `node dog-age-calculator.js Ralph 4` will output, "Your dog, Ralph, i
 
 #### Seasons and Stones
 
+**WARNING**: this app choice necessitates considerably more code than the other 2.
+
 The user will tell this app what month and hemisphere they were born in, and it will tell them their birthstone and what season they were born in.
 
 Here is the chart to use for birthstones:
