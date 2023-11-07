@@ -1,4 +1,4 @@
-# Lab - Intro To Node - Design Your Own Node App
+# Lab - Intro To Node.js
 
 ### Introduction
 
